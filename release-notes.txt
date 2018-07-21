@@ -1,6 +1,3 @@
-hii hello linux
-devops
-aws
 this is my workshop
 finished my work shop
 
